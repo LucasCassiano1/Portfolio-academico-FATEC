@@ -389,8 +389,8 @@ Organizações de médio e grande porte lidam com regras de comissionamento que 
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasCassiano1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCassiano1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -404,7 +404,7 @@ Organizações de médio e grande porte lidam com regras de comissionamento que 
 
 | 🏫 Instituição | 📘 Curso | 📅 Período |
 |---|---|---|
-| FATEC Prof. Jessen Vidal | Tecnologia em Análise e Desenvolvimento de Sistemas | 2023 – 2026 |
+| FATEC SJC | Tecnologia em Análise e Desenvolvimento de Sistemas | 2023 – 2026 |
 
 ---
 
@@ -425,11 +425,8 @@ Organizações de médio e grande porte lidam com regras de comissionamento que 
   <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=1B3A6B&style=flat-square&label=Visitas+ao+perfil"/>
 
   <br/><br/>
-
-  <i>⭐ Se algum projeto te interessou, deixa uma estrela no repositório!</i>
-
   <br/>
 
-  <sub>Feito com 💙 por Lucas Cassiano — FATEC Jessen Vidal</sub>
+  <sub> Lucas Cassiano Pontes</sub>
 
 </div>
