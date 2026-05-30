@@ -37,7 +37,7 @@
 ## 📖 Histórico Acadêmico
 
 <!-- ⚠️ PREENCHER: informe sua última instituição de ensino antes da FATEC -->
-> _Ex: Ensino Médio  concluído em  na Escola Estadual Francisco Pereira da Silva em São José dos Campos, São Paulo
+> Ensino Médio  concluído em  na Escola Estadual Francisco Pereira da Silva em São José dos Campos, São Paulo
 
 
 ---
@@ -45,7 +45,7 @@
 ## 💡 Motivação para entrar na FATEC
 
 <!-- ⚠️ PREENCHER: descreva o que te motivou a escolher a FATEC Jessen Vidal -->
-> _Ex: Sempre tive interesse por tecnologia e escolhi a FATEC por ser uma instituição pública de referência na região, reconhecida pela qualidade do ensino e pela metodologia de projetos integradores com empresas reais._
+>  Sempre tive interesse por tecnologia e escolhi a FATEC por ser uma instituição pública de referência na região, reconhecida pela qualidade do ensino e pela metodologia de projetos integradores com empresas reais.
 
 ---
 
@@ -54,7 +54,7 @@
 Atualmente atuo como **Desenvolvedor de IA** na **Radisa**, agência especializada em soluções de Inteligência Artificial, onde aplico na prática conhecimentos adquiridos ao longo do curso em modelos de linguagem e integração de sistemas inteligentes.
 
 <!-- ⚠️ PREENCHER: adicione suas atribuições na Radisa, período e qualquer experiência anterior -->
-> _Ex: Período: 12/2025 – atual. Atribuições: trabalho com instegrações com inteligência artificial, n8n, javascript, atendimento ao cliente, banco de dados como postgresql e framework agno._
+> Período: 12/2025 – atual. Atribuições: trabalho com instegrações com inteligência artificial, n8n, javascript, atendimento ao cliente, banco de dados como postgresql e framework agno._
 
 ---
 
