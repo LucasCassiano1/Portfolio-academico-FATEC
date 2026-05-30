@@ -33,6 +33,14 @@
 
 ---
 
+## 🎓 Formação
+
+| 🏫 Instituição | 📘 Curso | 📅 Período |
+|---|---|---|
+| FATEC SJC | Tecnologia em Análise e Desenvolvimento de Sistemas | 2023 – 2026 |
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
@@ -367,41 +375,6 @@ Organizações de médio e grande porte lidam com regras de comissionamento que 
 > **Colaboração** — Projeto com stack heterogênea (Java + Vue + Python) exigiu forte comunicação entre subequipes com responsabilidades distintas.
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasCassiano1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCassiano1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USERNAME_AQUI&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎓 Formação
-
-| 🏫 Instituição | 📘 Curso | 📅 Período |
-|---|---|---|
-| FATEC SJC | Tecnologia em Análise e Desenvolvimento de Sistemas | 2023 – 2026 |
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-lucasuqb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasuqb@gmail.com)
-[![GitHub Byte Benders](https://img.shields.io/badge/GitHub-Byte--Benders--Fatec-181717?style=for-the-badge&logo=github)](https://github.com/Byte-Benders-Fatec)
-[![GitHub ThothTech](https://img.shields.io/badge/GitHub-ThothTech--Fatec-181717?style=for-the-badge&logo=github)](https://github.com/ThothTech-Fatec)
-
-</div>
 
 ---
 
