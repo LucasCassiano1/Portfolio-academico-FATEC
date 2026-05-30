@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/f1950dce-f6c6-4a08-801b-221e5e7c0c87" width="160" style="border-radius:50%; border: 4px solid #1B3A6B;" alt="Lucas Cassiano"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1B3A6B&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Lucas+Cassiano+%F0%9F%91%8B;Desenvolvedor+Web+%26+Mobile;Estudante+FATEC+Jessen+Vidal;Apaixonado+por+tecnologia+e+impacto+social" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1B3A6B&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Lucas+Cassiano+%F0%9F%91%8B;Estudante+FATEC+Jessen+Vidal;Apaixonado+por+tecnologia+e+impacto+social" alt="Typing SVG" />
 </h1>
 
 <p>
