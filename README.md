@@ -7,7 +7,7 @@
 </h1>
 
 <p>
-  <img src="https://img.shields.io/badge/Idade-20%20anos-1B3A6B?style=for-the-badge"/>a
+  <img src="https://img.shields.io/badge/Idade-20%20anos-1B3A6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-S%C3%A3o%20Jos%C3%A9%20dos%20Campos%2C%20SP-2566A8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-27AE60?style=for-the-badge"/>
 </p>
