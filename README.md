@@ -62,7 +62,7 @@ Atualmente atuo como **Desenvolvedor de IA** na **Radisa**, agência especializa
 
 - 📧 E-mail: [lucasuqb@gmail.com](mailto:lucasuqb@gmail.com)
 - 🐙 GitHub (projetos do curso): [Byte-Benders-Fatec](https://github.com/Byte-Benders-Fatec) · [ThothTech-Fatec](https://github.com/ThothTech-Fatec)
-- 💼 LinkedIn: https://www.linkedin.com/in/m%C3%A1rcio-gabriel-426b0527b/
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-cassiano-pontes-02b4a6301?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
