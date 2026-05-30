@@ -363,11 +363,7 @@ Organizações de médio e grande porte lidam com regras de comissionamento que 
 ![LLM](https://img.shields.io/badge/IA_Generativa-LLM-8B5CF6?style=flat-square&logo=openai&logoColor=white)
 
 **✅ Minhas Contribuições**
-
-- 📥 Desenvolvimento dos **módulos de importação e cruzamento** de bases de dados de RH, Vendas e Comissionamento
-- 💡 Implementação da **lógica de cálculo de comissões** com suporte a bônus, proporcionais e regras específicas por cargo
-- 🤖 Integração com **modelo de linguagem (LLM)** para o assistente virtual explicativo
-- 📊 Criação de **dashboards gerenciais** com visão consolidada por equipe e período
+- 🤖 Integração com **modelo de linguagem (LLM)** 
 
 **🏅 Soft Skills Desenvolvidas**
 
