@@ -37,7 +37,8 @@
 ## 📖 Histórico Acadêmico
 
 <!-- ⚠️ PREENCHER: informe sua última instituição de ensino antes da FATEC -->
-> _Ex: Ensino Médio Técnico concluído em [ANO] na [NOME DA ESCOLA], curso de [NOME DO CURSO]._
+> _Ex: Ensino Médio  concluído em  na Escola Estadual Francisco Pereira da Silva em São José dos Campos, São Paulo
+
 
 ---
 
@@ -53,7 +54,7 @@
 Atualmente atuo como **Desenvolvedor de IA** na **Radisa**, agência especializada em soluções de Inteligência Artificial, onde aplico na prática conhecimentos adquiridos ao longo do curso em modelos de linguagem e integração de sistemas inteligentes.
 
 <!-- ⚠️ PREENCHER: adicione suas atribuições na Radisa, período e qualquer experiência anterior -->
-> _Ex: Período: [MÊS/ANO] – atual. Atribuições: [descrever brevemente o que faz]._
+> _Ex: Período: 12/2025 – atual. Atribuições: trabalho com instegrações com inteligência artificial, n8n, javascript, atendimento ao cliente, banco de dados como postgresql e framework agno._
 
 ---
 
@@ -61,7 +62,7 @@ Atualmente atuo como **Desenvolvedor de IA** na **Radisa**, agência especializa
 
 - 📧 E-mail: [lucasuqb@gmail.com](mailto:lucasuqb@gmail.com)
 - 🐙 GitHub (projetos do curso): [Byte-Benders-Fatec](https://github.com/Byte-Benders-Fatec) · [ThothTech-Fatec](https://github.com/ThothTech-Fatec)
-- 💼 LinkedIn: <!-- ⚠️ PREENCHER: adicione seu link do LinkedIn -->
+- 💼 LinkedIn: https://www.linkedin.com/in/m%C3%A1rcio-gabriel-426b0527b/
 
 ---
 
@@ -126,7 +127,8 @@ Alunos iniciantes e profissionais em transição tinham grande dificuldade em ab
 
 Desenvolvemos o **Scrum Tutor**, uma aplicação **web** responsiva que guia o usuário pelos conceitos, papéis, artefatos e cerimônias do Scrum de forma didática e interativa. O destaque é um formulário avaliativo inteligente que, com base nas respostas do usuário, classifica o nível de maturidade ágil da equipe e sugere melhorias. O sistema foi estruturado com backend em Python/Flask para roteamento e lógica dos formulários, e interface responsiva com Bootstrap.
 
-📁 **[Repositório GitHub](<!-- ⚠️ PREENCHER: link do repositório -->)**
+📁 **[https://github.com/Byte-Benders-Fatec/
+api-2sem-2023]**
 
 **🔧 Tecnologias Utilizadas**
 
@@ -173,7 +175,8 @@ Analistas de negócio e gestores dependiam inteiramente da equipe de TI para obt
 
 Desenvolvemos o **IA DataBank**, uma aplicação **desktop** que funciona como um "tradutor inteligente" entre o usuário e o banco de dados. O usuário faz uma pergunta em português, o sistema gera automaticamente a consulta SQL equivalente via LLM, executa no banco de dados importado e retorna o resultado em linguagem natural. A aplicação permite troca dinâmica de banco de dados e de modelo de IA durante a sessão, além de importação de bases a partir de arquivos PDF.
 
-📁 **[Repositório GitHub](<!-- ⚠️ PREENCHER: link do repositório -->)**
+📁 **[https://github.com/Byte-Benders-Fatec/
+api-1sem-2024]**
 
 **🔧 Tecnologias Utilizadas**
 
@@ -223,7 +226,8 @@ A empresa Youtan identificou que seus clientes corporativos gerenciavam o clima 
 
 Desenvolvemos o **Maat-View**, uma plataforma **web** de gestão de feedbacks e pesquisas de clima organizacional. O sistema permite que administradores cadastrem usuários com diferentes perfis (Admin, Líder e Liderado), criem pesquisas personalizadas com perguntas em múltiplos formatos e visualizem os resultados em dashboards interativos com filtros por data e categoria. As avaliações podem ser exportadas em PDF para fins de registro e compliance.
 
-📁 **[Repositório GitHub](<!-- ⚠️ PREENCHER: link do repositório -->)**
+📁 **[https://github.com/Byte-Benders-Fatec/
+api-2sem-2024/tree/main]**
 
 **🔧 Tecnologias Utilizadas**
 
@@ -271,7 +275,8 @@ A FAPG gerenciava múltiplos projetos de pesquisa de forma descentralizada, util
 
 Desenvolvemos o **Project Gestum**, um sistema **web** para gerenciamento de projetos de pesquisa e desenvolvimento. A plataforma permite o cadastro de editais, projetos, equipes e atividades, com controle de orçamento e validação de prazos. Dashboards visuais com código de cores para prazos próximos e vencidos permitem que coordenadores acompanhem o andamento de todas as pesquisas em tempo real, assim que fazem login.
 
-📁 **[Repositório GitHub](<!-- ⚠️ PREENCHER: link do repositório -->)**
+📁 **[https://github.com/Byte-Benders-Fatec/
+api-1sem-2025]**
 
 **🔧 Tecnologias Utilizadas**
 
@@ -323,7 +328,8 @@ Desenvolvemos o **GeoRah** (internamente referenciado como app CAR), um **aplica
 
 > 🌟 **Por que este é o projeto de destaque?** Este projeto combina **complexidade técnica real** (React Native + microsserviços + dois bancos de dados), **impacto social direto** e minha **primeira atuação como Scrum Master**, liderando a entrega de uma solução inédita para produtores rurais.
 
-📁 **[Repositório GitHub](<!-- ⚠️ PREENCHER: link do repositório -->)**
+📁 **[https://github.com/Byte-Benders-Fatec/
+api-2sem-2025]**
 
 **🔧 Tecnologias Utilizadas**
 
@@ -377,7 +383,8 @@ Organizações de médio e grande porte lidam com regras de comissionamento que 
 
 Desenvolvemos o **Ra Vision**, uma aplicação **web** para gerenciamento inteligente de regras de negócio com suporte de Inteligência Artificial Generativa. O sistema automatiza o cálculo de comissões com base em regras versionadas, detecta anomalias estatísticas para prevenção de fraudes e disponibiliza um assistente virtual via chat (LLM) que explica, em linguagem natural, como cada valor de comissão foi calculado. Dashboards gerenciais e histórico de versões garantem rastreabilidade completa para fins de auditoria.
 
-📁 **[Repositório GitHub](<!-- ⚠️ PREENCHER: link do repositório -->)**
+📁 **[https://github.com/ThothTech-Fatec/Ra
+Vision]**
 
 **🔧 Tecnologias Utilizadas**
 
@@ -416,8 +423,6 @@ Atuei como **Desenvolvedor** neste projeto. Fui responsável pelo desenvolviment
 ---
 
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=1B3A6B&style=flat-square&label=Visitas+ao+perfil"/>
 
   <br/><br/>
 
