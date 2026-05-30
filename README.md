@@ -7,24 +7,19 @@
 </h1>
 
 <p>
-  <img src="https://img.shields.io/badge/Idade-20%20anos-1B3A6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-S%C3%A3o%20Jos%C3%A9%20dos%20Campos%2C%20SP-2566A8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-27AE60?style=for-the-badge"/>
+  <sub>
+    🎂 <b>20 anos</b> &nbsp;|&nbsp;
+    📍 <b>São José dos Campos, SP</b> &nbsp;|&nbsp;
+    💼 <b>Aberto a oportunidades</b> &nbsp;|&nbsp;
+    📬 <a href="mailto:lucasuqb@gmail.com">lucasuqb@gmail.com</a>
+  </sub>
 </p>
-
+<br/>
 <p>
-  <a href="mailto:lucasuqb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lucasuqb%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Byte-Benders-Fatec">
-    <img src="https://img.shields.io/badge/GitHub-Byte--Benders--Fatec-181717?style=flat-square&logo=github"/>
-  </a>
-  <a href="https://github.com/ThothTech-Fatec">
-    <img src="https://img.shields.io/badge/GitHub-ThothTech--Fatec-181717?style=flat-square&logo=github"/>
-  </a>
+  <a href="https://github.com/Byte-Benders-Fatec"><img src="https://img.shields.io/badge/⚙_Byte--Benders--Fatec-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/ThothTech-Fatec"><img src="https://img.shields.io/badge/⚙_ThothTech--Fatec-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
-
-</div>
 
 ---
 
