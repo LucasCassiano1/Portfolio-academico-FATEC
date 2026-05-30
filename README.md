@@ -10,7 +10,6 @@
   <sub>
     🎂 <b>20 anos</b> &nbsp;|&nbsp;
     📍 <b>São José dos Campos, SP</b> &nbsp;|&nbsp;
-    💼 <b>Aberto a oportunidades</b> &nbsp;|&nbsp;
     📬 <a href="mailto:lucasuqb@gmail.com">lucasuqb@gmail.com</a>
   </sub>
 </p>
@@ -30,7 +29,7 @@
 - 💼 Experiência como **Desenvolvedor** e **Scrum Master** em 6 projetos reais com empresas parceiras
 - 🛠️ Foco em **Web Development**, **Mobile Development**, **AI Integration**
 - 🚀 Estagiando como desenvolvedor de IA em uma agência de inteliência artificial chamada Radisa
-- 📬 **lucasuqb@gmail.com**
+- 📬 Contato: **lucasuqb@gmail.com**
 
 ---
 
