@@ -25,21 +25,12 @@
 
 ## 🧑‍💻 Sobre mim
 
-```ts
-const lucas = {
-  nome:       "Lucas Cassiano",
-  idade:       20,
-  localização: "São José dos Campos – SP, Brasil",
-  curso:       "Análise e Desenvolvimento de Sistemas",
-  instituição: "FATEC Prof. Jessen Vidal",
-  período:     "2023 – 2026",
-  foco:       ["Web Development", "Mobile Development", "AI Integration", "Agile"],
-  atualmente: "Desenvolvendo projetos reais em parceria com empresas do mercado",
-  contato:    "lucasuqb@gmail.com"
-};
-```
-
-Sou desenvolvedor em formação com experiência prática construída ao longo de **6 semestres de projetos reais** na FATEC Jessen Vidal. Atuei como **Desenvolvedor** e **Scrum Master**, entregando soluções que vão de chatbots com IA a aplicativos mobile com impacto social direto no campo brasileiro.
+- 👤 **Lucas Cassiano**, 20 anos — São José dos Campos, SP
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Prof. Jessen Vidal (2023 – 2026)
+- 💼 Experiência como **Desenvolvedor** e **Scrum Master** em 6 projetos reais com empresas parceiras
+- 🛠️ Foco em **Web Development**, **Mobile Development**, **AI Integration**
+- 🚀 Estagiando como desenvolvedor de IA em uma agência de inteliência artificial chamada Radisa
+- 📬 **lucasuqb@gmail.com**
 
 ---
 
