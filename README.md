@@ -9,7 +9,7 @@
 
 <p>
   <sub>
-    🎂 <b>20 anos</b> &nbsp;|&nbsp;
+    🎂 <b>21 anos</b> &nbsp;|&nbsp;
     📍 <b>São José dos Campos, SP</b> &nbsp;|&nbsp;
     📬 <a href="mailto:lucasuqb@gmail.com">lucasuqb@gmail.com</a>
   </sub>
@@ -46,15 +46,6 @@
 
 <!-- ⚠️ PREENCHER: descreva o que te motivou a escolher a FATEC Jessen Vidal -->
 >  Sempre tive interesse por tecnologia e escolhi a FATEC por ser uma instituição pública de referência na região, reconhecida pela qualidade do ensino e pela metodologia de projetos integradores com empresas reais.
-
----
-
-## 💼 Histórico Profissional
-
-Atualmente atuo como **Desenvolvedor de IA** na **Radisa**, agência especializada em soluções de Inteligência Artificial, onde aplico na prática conhecimentos adquiridos ao longo do curso em modelos de linguagem e integração de sistemas inteligentes.
-
-<!-- ⚠️ PREENCHER: adicione suas atribuições na Radisa, período e qualquer experiência anterior -->
-> Período: 12/2025 – atual. Atribuições: trabalho com instegrações com inteligência artificial, n8n, javascript, atendimento ao cliente, banco de dados como postgresql e framework agno._
 
 ---
 
