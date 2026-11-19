@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/f1950dce-f6c6-4a08-801b-221e5e7c0c87" width="160" style="border-radius:50%; border: 4px solid #1B3A6B;" alt="Lucas Cassiano"/>
@@ -39,6 +38,32 @@
 <!-- ⚠️ PREENCHER: informe sua última instituição de ensino antes da FATEC -->
 > Ensino Médio  concluído em  na Escola Estadual Francisco Pereira da Silva em São José dos Campos, São Paulo
 
+
+---
+
+## 💼 Histórico Profissional
+
+### 🏢 FaberSoft Tecnologia, São José dos Campos - SP — Estágio em Desenvolvimento e Inteligência Artificial
+**Início:** dezembro/2025 | **Atual**
+
+- Desenvolvi automações e integrações de IA com sistemas utilizando **n8n**, **Python** e **JavaScript**;
+- Construí agentes de IA com o framework **Agno** (Python), aplicando engenharia de prompt de forma intensiva;
+- Trabalhei com modelos e ferramentas de IA como **OpenAI**, **OpenRouter**, **GLM**, **Claude Code** e **Cursor**;
+- Criei uma automação diária que coleta notícias na internet e gera posts automaticamente com IA;
+- Gerei conteúdo para redes sociais com IA, incluindo vídeos e imagens para carrosséis;
+- Integrei sistemas com CRM e com APIs de WhatsApp, oficial e não oficial (**Evolution API**);
+- Trabalhei com banco de dados **PostgreSQL** e com **Excel/Google Sheets** no tratamento de dados;
+- Fiz deploy e gestão de aplicações em servidor com **EasyPanel** e **Dokploy**;
+- Desenvolvi diversos sites, principalmente landing pages;
+- Atuei no atendimento ao cliente.
+
+### 🏢 Hunt Sales, São José dos Campos - SP — Estágio em Programação e Desenvolvimento
+**Início:** fevereiro/2025 | **Conclusão:** abril/2025
+
+- Colaborei com a equipe na análise e otimização de processos internos;
+- Participei da criação de metodologias de melhoria contínua;
+- Atuei como suporte para os clientes;
+- Desenvolvi automações utilizando **n8n**, **Python** e **JavaScript**.
 
 ---
 
